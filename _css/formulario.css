@@ -1,0 +1,17 @@
+form {
+	width: 450px;
+	margin: auto;
+}
+
+form input {
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, .3);
+}
+
+form input#cBot {
+	display: block;
+	margin: 10px auto 0;
+}
+
+form fieldset#sexo {
+	width: 200px;
+}
